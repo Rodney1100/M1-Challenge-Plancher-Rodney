@@ -1,8 +1,8 @@
 package com.company;
 
-import com.company.interfaces.converter;
+import com.company.interfaces.Converter;
 
-public class ConverterSwitch implements converter {
+public class ConverterSwitch implements Converter {
 
     @Override
     public String convertMonth(int monthNumber) {
