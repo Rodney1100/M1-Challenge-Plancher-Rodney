@@ -9,7 +9,7 @@ public class IceCream {
     private double weight;
 
     @Override
-    public String toString() {
+    public String toString(){
         return "IceCream{" +
                 "temperature=" + temperature +
                 ", flavor='" + flavor + '\'' +
@@ -17,16 +17,14 @@ public class IceCream {
                 ", weight=" + weight +
                 '}';
     }
-
     public double getPrice() {
         return price;
     }
-    public double setPrice(double pricePerPound, double weight) {
+      public double setPrice(double pricePerPound, double weight) {
         this.price = weight * pricePerPound / 5;
         System.out.println(this.price);
         return this.price;
     }
-
     public int getTemperature() {
         return temperature;
     }
@@ -39,11 +37,9 @@ public class IceCream {
         }
           return this.temperature;
     }
-
     public String getFlavor() {
         return flavor;
     }
-
     public void setFlavor(String flavor) {
         this.flavor = flavor;
     }
@@ -57,6 +53,4 @@ public class IceCream {
         System.out.println("doesHaveNuts  " + doesHaveNuts);
         return doesHaveNuts;
     }
-
-
 }

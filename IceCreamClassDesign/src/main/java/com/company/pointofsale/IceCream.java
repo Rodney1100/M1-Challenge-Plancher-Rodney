@@ -2,22 +2,15 @@ package com.company.pointofsale;
 
 public class IceCream {
     private int id;
-    private double price;
+    private double priceInStore;
     private String name;
     private String flavor;
 
-
-
-    public IceCream(int id, double price, String name) {
-        this.id = id;
-        this.price = price;
-        this.name = name;
-    }
     @Override
     public String toString() {
         return "IceCream{" +
                 "id=" + id +
-                ", price=" + price +
+                ", price=" + priceInStore +
                 ", name='" + name + '\'' +
                 ", flavor='" + flavor + '\'' +
                 '}';
@@ -29,22 +22,33 @@ public class IceCream {
 
     public void setId(int id) {
         this.id = id;
+//        return this.id;
     }
 
     public double getPrice() {
-        return price;
+        return priceInStore;
     }
 
-    public void setPrice(double price) {
-        this.price = price;
+    public double setPriceInStore(double priceInInStore) {
+        this.priceInStore = (priceInInStore * 1.5);
+        return this.priceInStore;
     }
 
     public String getName() {
         return name;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public String setName(int inputNameNum) {
+        if(id == 1){
+            name = "BlueBarry";
+            return this.name;
+        }else if (id == 2){
+            name = "vanilla";
+            return this.name;
+        }else{
+            System.out.println("You need to provide an ID");
+        }
+        return this.name;
     }
 
     public String getFlavor() {
@@ -54,8 +58,4 @@ public class IceCream {
     public void setFlavor(String flavor) {
         this.flavor = flavor;
     }
-
-
-
-
 }
