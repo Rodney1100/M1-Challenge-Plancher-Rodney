@@ -17,14 +17,12 @@ public void SetUp(){
 }
     @Test
     public void shouldReturnAMonthThatCorrespondToTheNumberUsingSwitch() {
-//        Converter converter1 = new ConverterSwitch();
         String expectedOutput = "January";
         String actualOutput = converter1.convertMonth(1);
         assertEquals(expectedOutput,actualOutput);
     }
     @Test
     public void shouldReturnAMonthThatCorrespondToTheNumberUsingIf() {
-//        Converter converter1 = new ConverterIf();
         String expectedOutput = "January";
         String actualOutput = converter2.convertMonth(1);
         assertEquals(expectedOutput,actualOutput);
@@ -32,14 +30,12 @@ public void SetUp(){
     }
     @Test
     public void shouldReturnADayThatCorrespondToTheNumberUsingSwitch() {
-//        Converter converter1 = new ConverterSwitch();
         String expectedOutput = "sunday";
         String actualOutput = converter1.convertDay(1);
         assertEquals(expectedOutput,actualOutput);
     }
     @Test
     public void shouldReturnADayThatCorrespondToTheNumberUsingIf() {
-//        Converter converter1 = new ConverterIf();
         String expectedOutput = "sunday";
         String actualOutput = converter2.convertDay(1);
         assertEquals(expectedOutput,actualOutput);
