@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="db17b026-0688-46ba-8b96-0894559c505f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../IceCreamClassDesign/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IceCreamClassDesign/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IceCreamClassDesign/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IceCreamClassDesign/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IceCreamClassDesign/IceCreamClassDesign.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IceCreamClassDesign/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IceCreamClassDesign/src/main/java/com/company/factory/IceCream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IceCreamClassDesign/src/main/java/com/company/pointofsale/IceCream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPGInheritance/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPGInheritance/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPGInheritance/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPGInheritance/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPGInheritance/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPGInheritance/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPGInheritance/src/main/java/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2BYTmfkQGESeaW2etr0iEPsk8A5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db17b026-0688-46ba-8b96-0894559c505f" name="Changes" comment="" />
+      <created>1657082182739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657082182739</updated>
+    </task>
+    <servers />
+  </component>
+</project>

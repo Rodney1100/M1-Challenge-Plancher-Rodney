@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CalculatorObject/CalculatorObject.iml" filepath="$PROJECT_DIR$/CalculatorObject/CalculatorObject.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConverterInterface/ConverterInterface.iml" filepath="$PROJECT_DIR$/ConverterInterface/ConverterInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IceCreamClassDesign/IceCreamClassDesign.iml" filepath="$PROJECT_DIR$/IceCreamClassDesign/IceCreamClassDesign.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/M1-Challenge-Plancher-Rodney.iml" filepath="$PROJECT_DIR$/.idea/M1-Challenge-Plancher-Rodney.iml" />
     </modules>
   </component>

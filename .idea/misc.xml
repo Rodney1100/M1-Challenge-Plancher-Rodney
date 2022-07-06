@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/ConverterInterface/pom.xml" />
         <option value="$PROJECT_DIR$/CalculatorObject/pom.xml" />
+        <option value="$PROJECT_DIR$/IceCreamClassDesign/pom.xml" />
       </list>
     </option>
   </component>
